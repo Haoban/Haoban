@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Image Processing, especially interested in Super-Resolution, Raw-Image, etc. in [Visidon](https://www.visidon.fi/).
 - 🌱 I’m currently learning C++ developing, full stack developing and algorithms.
-- 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards financial freedom.
+- 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards **Financial Independence** together.
 - 📫 More Information about me [EN](https://haoban.github.io/about/?lang=en)/[中](https://haoban.github.io/about/?lang=zh)
 - 💬 Ask me about **Finland**, **Visidon**, **Computational Photography** and **Financial Investment**.
 
