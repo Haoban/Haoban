@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Image Processing, especially interested in Super-Resolution, Raw-Image, etc. in [Visidon](https://www.visidon.fi/).
+- 🌱 I’m currently learning C++, full stack and algorithms.
+- 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards financial freedom.
+- 📫 More Information about me [EN](https://haoban.github.io/about/?lang=en)/[中](https://haoban.github.io/about/?lang=zh)
+
 <!--
 **Haoban/Haoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
