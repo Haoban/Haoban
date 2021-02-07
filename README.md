@@ -4,6 +4,13 @@
 - 🌱 I’m currently learning C++, full stack and algorithms.
 - 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards financial freedom.
 - 📫 More Information about me [EN](https://haoban.github.io/about/?lang=en)/[中](https://haoban.github.io/about/?lang=zh)
+- 💬 Ask me about **Finland**, **Visidon**, **Computational Photography** and **Financial Investment**.
+
+📕 Some Blogs I write:
+- [Sharing some tips on using git - 中文](https://haoban.github.io/archive/?tag=Git)
+- [Dynamic and Static Library](https://haoban.github.io/2021/01/19/Dynamic-and-Static-Library/)
+- [ADB Related](https://haoban.github.io/archive/?tag=Android)
+- [Linux Related](https://haoban.github.io/archive/?tag=Linux)
 
 <!--
 **Haoban/Haoban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
