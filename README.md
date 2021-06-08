@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Image Processing, especially interested in Super-Resolution, Raw-Image, etc. in [Visidon](https://www.visidon.fi/).
+- 🔭 I’m currently working on Image Processing, especially interested in Super-Resolution, Raw-Image, etc. in [Xiaomi]().
 - 🌱 I’m currently learning C++ developing, full stack developing and algorithms.
 - 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards **Financial Independence** together.
 - 📫 More Information about me [EN](https://haoban.github.io/about/?lang=en)/[中](https://haoban.github.io/about/?lang=zh)
-- 💬 Ask me about **Finland**, **Visidon**, **Computational Photography** and **Financial Investment**.
+- 💬 Ask me about **Finland**, **Xiaomi**, **Computational Photography** and **Financial Investment**.
 
 📕 Some Blogs I write:
 - [Sharing some tips on using git - 中文](https://haoban.github.io/archive/?tag=Git)
