@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Computational Photography**, especially interested in `Super-Resolution`, `Multi-frame technologies`, `Image postprocessing (denoising, sharpening)`, `ISP (AWB)` etc. in [Xiaomi Finland](https://www.mi.com/global/).
 - 🌱 I’m currently learning C++ developing, full stack developing and algorithms.
-- 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards **Financial Independence** together.
+- 👯 I’m looking to collaborate on [@SIGFUND](https://github.com/SIGFUND) about investment towards **(FIRE) Financial Independence, Retire Early** together.
 - 📫 More Information about me [EN](https://haoban.github.io/about/?lang=en)/[中](https://haoban.github.io/about/?lang=zh)
 - 💬 Ask me about **Finland**, **Xiaomi**, **Computational Photography** and **Financial Investment**.
 
